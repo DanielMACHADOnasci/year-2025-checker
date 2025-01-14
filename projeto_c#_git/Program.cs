@@ -33,11 +33,14 @@ namespace projeto_git
                 default: Menu(); break;
             }
         }
-
         static void Anometro()
         {
-            DateTime hoje = DateTime.Now;
             int diasPassados = 0;
+            DateTime hoje = DateTime.Now;
+            DateTime inicio2025 = new DateTime(2025, 1, 1);
+            DateTime fim2025 = new DateTime(2025, 12, 31);
+            TimeSpan diferenca;
+            
             
             if (hoje.Year == 2025)
             {
@@ -58,9 +61,31 @@ namespace projeto_git
                 Console.ReadKey();
                 Menu();
             }
+            else if(hoje.Year > 2025)
+            { 
+                diferenca = hoje - inicio2025;
+                Console.Clear();
+                Console.WriteLine("------------------------------------------------");
+                Console.WriteLine("|          Não estamos mais em 2025 :(         |");
+                Console.WriteLine($"|  estamos {diferenca.Days} dias longe de 2025    |");
+                Console.WriteLine("|                                              |");
+                Console.WriteLine("| precione qualquer tecla pra retornar ao menu |");
+                Console.WriteLine("------------------------------------------------");
+                Console.ReadKey();
+                Menu();
+            }
             else
             { 
-                Console.WriteLine("ja num tamo mais :(");
+                diferenca = fim2025 - hoje;
+                Console.Clear();
+                Console.WriteLine("------------------------------------------------");
+                Console.WriteLine("|           Ainda não estamos em 2025 :(       |");
+                Console.WriteLine($"|  estamos {diferenca.Days} dias longe de 2025    |");
+                Console.WriteLine("|                                              |");
+                Console.WriteLine("| precione qualquer tecla pra retornar ao menu |");
+                Console.WriteLine("------------------------------------------------");
+                Console.ReadKey();
+                Menu();
             }
         }
 
@@ -75,7 +100,7 @@ namespace projeto_git
             Console.WriteLine("|                                              |");
             Console.WriteLine("|                                              |");
             Console.WriteLine("|  This code has been made so i can learn how  |");
-            Console.WriteLine("|to use git. if u are seeing this i have Learnd|");
+            Console.WriteLine("|to use git. if u are seeing this i have Learned|");
             Console.WriteLine("|how to use GitHub!                            |");
             Console.WriteLine("|                                              |");
             Console.WriteLine("|     Press any key to return to the menu.     |");

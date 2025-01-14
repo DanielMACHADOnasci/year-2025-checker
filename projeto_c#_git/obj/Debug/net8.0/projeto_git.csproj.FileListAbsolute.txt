@@ -12,3 +12,4 @@ C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\obj\Debug\net8.0\refint\projeto_
 C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\obj\Debug\net8.0\projeto_git.pdb
 C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\obj\Debug\net8.0\projeto_git.genruntimeconfig.cache
 C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\obj\Debug\net8.0\ref\projeto_git.dll
+C:\projetos\aulas_2025\aulao_git\projeto_c#_git\obj\Debug\net8.0\projeto_git.sourcelink.json
