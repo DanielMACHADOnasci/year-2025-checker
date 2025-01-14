@@ -1,0 +1,14 @@
+C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\bin\Debug\net8.0\projeto_git.exe
+C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\bin\Debug\net8.0\projeto_git.deps.json
+C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\bin\Debug\net8.0\projeto_git.runtimeconfig.json
+C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\bin\Debug\net8.0\projeto_git.dll
+C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\bin\Debug\net8.0\projeto_git.pdb
+C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\obj\Debug\net8.0\projeto_git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\obj\Debug\net8.0\projeto_git.AssemblyInfoInputs.cache
+C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\obj\Debug\net8.0\projeto_git.AssemblyInfo.cs
+C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\obj\Debug\net8.0\projeto_git.csproj.CoreCompileInputs.cache
+C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\obj\Debug\net8.0\projeto_git.dll
+C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\obj\Debug\net8.0\refint\projeto_git.dll
+C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\obj\Debug\net8.0\projeto_git.pdb
+C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\obj\Debug\net8.0\projeto_git.genruntimeconfig.cache
+C:\Projetos\aulas_2025\aulao_git\projeto_c#_git\obj\Debug\net8.0\ref\projeto_git.dll
